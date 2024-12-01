@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/github/followers/sirajvind?style=social" />
     <img src="https://img.shields.io/github/stars/sirajvind?style=social" />
     </p>
+    <h4 align="center">
+  🕵️‍♂️ Software Development Engineer in Test (SDET) 
+    </h4>
     <p align="center">
-  🕵️‍♂️ QA Full Stack and 🤖 Automation Test Engineer 
-    </p>
-    <p align="center" style="font-size:14px">
-    I'm a passionate QA enthusiast who loves managing testing processes, both in automation and people leadership. 💻 I thrive on ensuring the highest quality in software testing and improving processes. In my free time, I enjoy gaming on my Asus ROG laptop 🎮 or diving into the fascinating world of AI 🦾.
+    <i><small>I'm a passionate QA enthusiast who loves managing testing processes, developing robust automation frameworks, and leading people to achieve excellence. 💻 With expertise in Automation, I thrive on ensuring the highest quality in software testing and driving innovation in product quality and process improvement. In my free time, I enjoy gaming on my Asus ROG laptop 🎮 or diving into the fascinating world of AI 🦾.</small></i>
     </p> 
     <p align="center">
     <a href="https://www.linkedin.com/in/sirajvindsuriya" target="_blank">
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,typescript,python,java,markdown,bash,git,github,gitlab,bitbucket,chatgpt,gemini,githubcopilot,microsoftcopilot,discord,docker,elasticsearch,firebase,gcp,aws,gherkin,grafana,insomnia,jest,mocha,jira,kibana,lighthouse,miro,mongodb,mysql,postgresql,nodejs,notion,npm,playwright,cypress,selenium,postman,powershell,puppeteer,sentry,slack,storybook,swagger,teams,figma,vscode,&titles=true&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,typescript,python,java,markdown,bash,git,github,gitlab,bitbucket,chatgpt,gemini,githubcopilot,microsoftcopilot,discord,docker,elasticsearch,firebase,gcp,aws,gherkin,grafana,insomnia,jest,mocha,jira,kibana,lighthouse,miro,mongodb,mysql,postgresql,nodejs,notion,npm,playwright,cypress,selenium,postman,powershell,puppeteer,sentry,slack,storybook,swagger,teams,figma,vscode,&titles=true&theme=dark&perline=10" />
   </a>
 </p>
 
