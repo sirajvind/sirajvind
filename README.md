@@ -42,8 +42,6 @@
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajvind&theme=radical&hide_border=true&show_icons=true&no-bg=true&no-frame=true&langs_count=10"/>
-  <br><br>
-  <img align="center" src="" />
 </td>
 </tr>
 </table>
