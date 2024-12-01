@@ -33,16 +33,17 @@
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xxMGFuZmxlYTJ6MXhkb3ByYjRranpobjE4eW95M3locmdseWVxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOFVz5P9zEugxUxnVV/giphy.gif" width="30px" /> GitHub Statistics
 
-<p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sirajvind&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title=%20Github%20Stats" alt="Sirajvind's Github Stats" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sirajvind&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajvind&theme=radical&hide_border=true" alt="Sirajvind's Streak" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajvind&theme=radical&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sirajvind&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajvind&theme=radical&hide_border=true&show_icons=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <br><br>
+  <img align="center" src="" />
 </td>
 </tr>
 </table>
@@ -53,7 +54,7 @@
 </div><br>
 <div align=center>
   <a>
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sirajvind&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&hide_border=true" alt="TROPHY" />
+    <img align="center" width=84% src="https://github-trophies.vercel.app/?username=sirajvind&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 </p>
@@ -64,6 +65,10 @@
   <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,html,css,typescript,python,java,markdown,bash,git,github,gitlab,bitbucket,chatgpt,gemini,githubcopilot,microsoftcopilot,discord,docker,elasticsearch,firebase,gcp,aws,gherkin,grafana,insomnia,jest,mocha,jira,kibana,lighthouse,miro,mongodb,mysql,postgresql,nodejs,notion,npm,playwright,cypress,selenium,postman,powershell,puppeteer,sentry,slack,storybook,swagger,teams,figma,vscode,&titles=true&theme=dark&perline=10" />
   </a>
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/sirajvind"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sirajvind&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
