@@ -38,10 +38,10 @@
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sirajvind&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajvind&theme=radical&hide_border=true" /> 
+  <img align="center" src="https://streak-stats.demolab.com?user=sirajvind&theme=radical&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajvind&theme=radical&hide_border=true&show_icons=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajvind&theme=radical&show_icons=true&hide_border=true&layout=compact&show_icons=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
 </table>
